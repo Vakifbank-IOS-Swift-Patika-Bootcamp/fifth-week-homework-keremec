@@ -1,3 +1,6 @@
+![Ekran Resmi 2022-12-02 21 22 29](https://user-images.githubusercontent.com/50713500/205360343-4c932034-f0f8-4150-96c3-261d8da305fc.png)
+
+
 # fifth-week-homework
 
 ## 1- Breaking Bad api uygulamamıza persistant özelliği kazandıracağız.
