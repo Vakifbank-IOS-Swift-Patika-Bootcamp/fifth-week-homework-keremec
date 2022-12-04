@@ -1,4 +1,52 @@
+
+## :star2: Güncelleme
+<div align="left"> 
+
+- Bir önceki haftada bölüme tıklayınca açılan view içine oyuncuları yazdırmamışım. Onu da bu hafta düzelttim. Feedbackler için teşekkür ederim.
+
+- Resim Olmayınca Placeholder Olarak "NO-Image" gösteriliyor.
+
+- Tasarım Geliştirmeleri
+
+- Notlar Bölümü Eklendi
+
+</div>
+
+## :iphone: Screenshoots
+
+<div align="center"> 
+
+![bariumApp](https://user-images.githubusercontent.com/50713500/205487489-cdf8d82d-51f1-4749-ad83-2d110914107d.png)
+
+</div>
+
+
+## :gem: Video
+
+<div align="center"> 
+
+https://user-images.githubusercontent.com/50713500/205487496-def88c70-2e85-45a6-a46a-cb04ab829d78.mp4
+
+
+
+https://user-images.githubusercontent.com/50713500/205487500-0cab81e7-4eaf-4782-bba4-4d7145def7b1.mp4
+
+</div>
+
+
+## Leetcode Ekran Görüntüsü
+
+<div align="center"> 
+
 ![Ekran Resmi 2022-12-02 21 22 29](https://user-images.githubusercontent.com/50713500/205360343-4c932034-f0f8-4150-96c3-261d8da305fc.png)
+
+</div>
+
+<div align="center"> 
+
+-------------------------
+
+</div>
 
 
 # fifth-week-homework
